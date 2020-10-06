@@ -2,10 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e3f9face-6a07-42f2-9374-eea3e9c4c0b8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/希尔排序.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/归并排序.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/十大算法/插入排序.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/十大算法/插入排序.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/十大算法/希尔排序.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/十大算法/希尔排序.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -46,11 +45,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/希尔排序.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="405">
-              <caret line="21" column="26" lean-forward="true" selection-start-line="21" selection-start-column="26" selection-end-line="21" selection-end-column="26" />
+            <state relative-caret-position="135">
+              <caret line="17" column="26" selection-start-line="17" selection-start-column="26" selection-end-line="17" selection-end-column="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/归并排序.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="231">
+              <caret line="45" column="5" lean-forward="true" selection-start-line="15" selection-start-column="2" selection-end-line="45" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -74,6 +82,7 @@
         <option value="$PROJECT_DIR$/src/选择排序.java" />
         <option value="$PROJECT_DIR$/src/插入排序.java" />
         <option value="$PROJECT_DIR$/src/希尔排序.java" />
+        <option value="$PROJECT_DIR$/src/归并排序.java" />
       </list>
     </option>
   </component>
@@ -87,8 +96,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="683" />
-    <option name="y" value="54" />
+    <option name="x" value="377" />
+    <option name="y" value="75" />
     <option name="width" value="988" />
     <option name="height" value="883" />
   </component>
@@ -155,7 +164,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.希尔排序">
+  <component name="RunManager" selected="Application.归并排序">
     <configuration name="冒泡排序" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="冒泡排序" />
       <module name="十大算法" />
@@ -165,6 +174,13 @@
     </configuration>
     <configuration name="希尔排序" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="希尔排序" />
+      <module name="十大算法" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="归并排序" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="归并排序" />
       <module name="十大算法" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -255,6 +271,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.归并排序" />
         <item itemvalue="Application.希尔排序" />
         <item itemvalue="Application.冒泡排序" />
       </list>
@@ -272,12 +289,12 @@
       <updated>1601888476658</updated>
       <workItem from="1601888482527" duration="3216000" />
       <workItem from="1601892460984" duration="4480000" />
-      <workItem from="1601948611538" duration="4543000" />
+      <workItem from="1601948611538" duration="8476000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12239000" />
+    <option name="totallyTimeSpent" value="16172000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
@@ -347,8 +364,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/希尔排序.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="405">
-          <caret line="21" column="26" lean-forward="true" selection-start-line="21" selection-start-column="26" selection-end-line="21" selection-end-column="26" />
+        <state relative-caret-position="135">
+          <caret line="17" column="26" selection-start-line="17" selection-start-column="26" selection-end-line="17" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/归并排序.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="45" column="5" lean-forward="true" selection-start-line="15" selection-start-column="2" selection-end-line="45" selection-end-column="5" />
         </state>
       </provider>
     </entry>
